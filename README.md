@@ -1,7 +1,10 @@
-# Hospital-Data-Analysis-SQL
-Analyzing hospital data using SQL to extract trends and support decision-making in patient care, operations, and finance.
+<img width="518" height="347" alt="{F1B58899-4CAA-4C74-8712-AAC4B3335E27}" src="https://github.com/user-attachments/assets/286cc0b6-c5dd-40bc-aba6-411556fb9f01" />[Uploading {F1B58899-4CAA-4C74-8712-AAC4B3335E27}.png…]()
 
-This project involves analyzing hospital data to uncover key trends and support better decision-making in areas such as **patient care**, **operations**, and **financial planning**.
+Hospital Data Analysis using SQL Project
+Project Overview
+I designed and implemented a relational database for a Hospital Management System and analyzed the data using advanced SQL techniques. The dataset covered patients, doctors, appointments, treatments, and billing records across hospital branches.
+
+The goal of the project was to extract actionable insights that support better patient care, improve operational efficiency, and strengthen financial management.
 
 ## 📅 Duration
 **April 2024**
