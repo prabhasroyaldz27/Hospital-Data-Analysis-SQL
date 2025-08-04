@@ -21,9 +21,9 @@ As part of a Database Management Systems (DBMS) project, this analysis was perfo
 - Performed query-based insights for data-driven improvements
 
 ## 📁 Structure
-- `schema.sql` – Database schema and table creation  
+- `schema` – Database schema and table creation  
 - `queries.sql` – Analytical SQL queries  
-- `results/` – Sample outputs and insights
+- `results` – Sample outputs and insights
 
 ## 📈 Outcome
 Helped visualize critical trends and supported improved planning and resource allocation in hospital management.
