@@ -40,7 +40,8 @@ Billing – Manages transactions, amounts, and payment status.
 - `queries.sql` – Analytical SQL queries  
 - `results` – Sample outputs and insights
 
-## 📈 Outcome
+## 📈 Outcome  
 By building this project, I demonstrated expertise in SQL, relational database design, and healthcare analytics. The analysis produced valuable insights for optimizing hospital operations and finances. This project highlights my ability to design scalable databases, write advanced SQL queries, and apply data‑driven solutions to real‑world problems.
+
 ---
 
